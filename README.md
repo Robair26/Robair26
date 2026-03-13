@@ -22,10 +22,7 @@ Backend: Python · FastAPI · REST APIs
 Edge AI: NVIDIA Jetson Orin NX · CUDA · ONNX Runtime
 Data: NumPy · Pandas
 DevOps: Linux · Git · Bash · DigitalOcean
-
 ---
-
-
 ## 📫 Connect
 
 [LinkedIn](https://linkedin.com/in/robairfarag) 
