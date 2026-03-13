@@ -57,4 +57,3 @@ Linux · Git · Bash · DigitalOcean
 ## 📫 Connect
 
 LinkedIn
-https://linkedin.com/in/robairfarag
