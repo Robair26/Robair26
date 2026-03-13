@@ -17,12 +17,14 @@ AI/ML Engineer building production systems at the intersection of machine learni
 
 ## 🛠️ Tech Stack
 
-**ML/AI:** PyTorch · scikit-learn · Ollama · LLMs · ONNX · Anomaly Detection  
-**Backend:** FastAPI · Python · REST APIs  
-**Edge:** NVIDIA Jetson Orin NX · CUDA  
-**DevOps:** Linux · DigitalOcean · Git · Bash  
+ML/AI: PyTorch · scikit-learn · LLMs · Ollama · ONNX · Time-Series Anomaly Detection
+Backend: Python · FastAPI · REST APIs
+Edge AI: NVIDIA Jetson Orin NX · CUDA · ONNX Runtime
+Data: NumPy · Pandas
+DevOps: Linux · Git · Bash · DigitalOcean
 
 ---
+
 
 ## 📫 Connect
 
