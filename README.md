@@ -56,4 +56,5 @@ Linux · Git · Bash · DigitalOcean
 
 ## 📫 Connect
 
-LinkedIn
+[LinkedIn
+](https://linkedin.com/in/robairfarag)
