@@ -1,16 +1,29 @@
-## Hi there 👋
+# Robair Farag — AI/ML Engineer
 
-<!--
-**Robair26/Robair26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer building production systems at the intersection of machine learning, edge computing, and automation. Currently completing an M.S. in Applied Artificial Intelligence at the University of San Diego.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Live Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [BitShadow](https://bitshadow.dev) | Live AI-powered phishing URL detector | FastAPI, Streamlit, ML |
+| [Shadow Tribunal](https://tribunal.bitshadow.dev) | Local LLM inference app with Ollama | Ollama, FastAPI, Python |
+| [Signal Sunday Bot](https://github.com/Robair26/signal-sunday-readings-bot) | Production automation bot (Signal messenger) | Python, Signal API |
+| [Adaptive Anomaly Monitor](https://github.com/Robair26/adaptive-anomaly-monitoring) | ML anomaly detection: Z-Score vs Isolation Forest vs LSTM | PyTorch, scikit-learn |
+
+---
+
+## 🛠️ Tech Stack
+
+**ML/AI:** PyTorch · scikit-learn · Ollama · LLMs · ONNX · Anomaly Detection  
+**Backend:** FastAPI · Python · REST APIs  
+**Edge:** NVIDIA Jetson Orin NX · CUDA  
+**DevOps:** Linux · DigitalOcean · Git · Bash  
+
+---
+
+## 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/robairfarag) · [bitshadow.dev](https://bitshadow.dev)
