@@ -26,4 +26,4 @@ AI/ML Engineer building production systems at the intersection of machine learni
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/robairfarag) · [bitshadow.dev](https://bitshadow.dev)
+[LinkedIn](https://linkedin.com/in/robairfarag) 
