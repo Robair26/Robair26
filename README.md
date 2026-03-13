@@ -35,6 +35,12 @@ NumPy · Pandas
 Linux · Git · Bash · DigitalOcean
 
 ---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
 
 ## 🧠 Key Capabilities
 
@@ -58,3 +64,9 @@ Linux · Git · Bash · DigitalOcean
 
 [LinkedIn
 ](https://linkedin.com/in/robairfarag)
+
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robair26\&layout=compact\&theme=dark)
+
