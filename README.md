@@ -71,5 +71,3 @@ Red Hat OpenShift & Kubernetes · AWS Cloud Foundations · Google Cybersecurity 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/robairfarag)
 [![AXIOM Live](https://img.shields.io/badge/AXIOM-Live_Demo-00d4ff?style=flat)](https://axiom.bitshadow.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Robair26-181717?style=flat&logo=github)](https://github.com/Robair26)
-ENDOFFILE
-cat /tmp/github_readme.md
