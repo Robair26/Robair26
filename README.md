@@ -1,73 +1,75 @@
-# Robair Farag — AI/ML Engineer
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+cat > /tmp/github_readme.md << 'ENDOFFILE'
+# Robair Farag — Applied AI & Systems Engineer
 
-AI/ML Engineer building production systems at the intersection of machine learning, edge computing, and automation. Currently completing an **M.S. in Applied Artificial Intelligence** at the University of San Diego.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
 
-**Focus Areas:** Cybersecurity AI · Edge AI · Anomaly Detection · Autonomous Systems
+Applied AI & Systems Engineer building production-grade AI systems at the intersection of edge computing, ML infrastructure, and autonomous systems. Currently completing an **M.S. in Applied Artificial Intelligence** at the University of San Diego.
+
+**Focus Areas:** Edge AI Deployment · ML Infrastructure · Production AI Systems · Autonomous Systems · Cybersecurity AI
 
 ---
 
 ## 🚀 Live Projects
 
-| Project                                                                             | Description                                                                              | Stack                   |
-| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------- |
-| [BitShadow](https://bitshadow.dev)                                                  | Live AI-powered phishing URL detector with ML and rule-based threat scoring              | FastAPI, Streamlit, ML  |
-| [Shadow Tribunal](https://tribunal.bitshadow.dev)                                   | Local LLM inference system running private AI models                                     | Ollama, FastAPI, Python |
-| [Signal Sunday Bot](https://github.com/Robair26/signal-sunday-readings-bot)         | Production automation bot for messaging workflows                                        | Python, Signal API      |
-| [Adaptive Anomaly Monitor](https://github.com/Robair26/adaptive-anomaly-monitoring) | Time-series anomaly detection comparing Z-Score, Isolation Forest, and LSTM Autoencoders | PyTorch, scikit-learn   |
+| Project | Description | Stack |
+|---|---|---|
+| [**AXIOM**](https://axiom.bitshadow.dev) | Defense-grade edge-cloud hybrid AI assistant — voice interaction, multi-agent debate, autonomous monitoring, holographic UI. Live at axiom.bitshadow.dev | Python, Flask, Docker, K8s, Jetson, Claude API, ElevenLabs, Prometheus |
+| [**BitShadow**](https://bitshadow.dev) | Live AI-powered phishing URL detector with ML classification and rule-based threat scoring | FastAPI, Streamlit, NLP, ML |
+| [**Shadow Tribunal**](https://github.com/Robair26/shadow-tribunal) | Local LLM inference system running private AI models | Ollama, FastAPI, Python |
+| [**Signal Sunday Bot**](https://github.com/Robair26/signal-sunday-readings-bot) | Production automation bot for messaging workflows | Python, Signal API |
+| [**Adaptive Anomaly Monitor**](https://github.com/Robair26/aai-540-final-project-g2) | Time-series anomaly detection — Isolation Forest, Rolling Z-Score, and LSTM Autoencoders | PyTorch, scikit-learn |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**ML / AI**
-PyTorch · scikit-learn · LLMs · Ollama · ONNX · Time-Series Anomaly Detection
+**Core AI / ML** — PyTorch · TensorFlow · scikit-learn · ONNX Runtime · LLMs · NLP · Computer Vision · Anomaly Detection · Speech Recognition
 
-**Backend**
-Python · FastAPI · REST APIs
+**Systems / Infra** — Linux · Docker · Kubernetes (K3s) · REST APIs · FastAPI · Flask · Microservices · JWT · Prometheus · Grafana
 
-**Edge AI**
-NVIDIA Jetson Orin NX · CUDA · ONNX Runtime
+**Edge / Embedded** — NVIDIA Jetson Orin Nano · C++ · OpenCV · ARM Architecture · Multi-threading · NVIDIA Nsight Systems · CUDA
 
-**Data**
-NumPy · Pandas
+**Cloud / DevOps** — AWS (Athena, EC2, S3, CloudWatch) · DigitalOcean · Cloudflare · CI/CD · GitHub Actions · GitLab CI/CD · DevSecOps
 
-**DevOps**
-Linux · Git · Bash · DigitalOcean
+**Languages** — Python · C/C++ · Bash · SQL · Java · JavaScript · Go (familiar)
 
 ---
 
-
 ## 🧠 Key Capabilities
 
-• AI-powered cybersecurity systems
-• Time-series anomaly detection for infrastructure monitoring
-• Edge AI deployment on NVIDIA Jetson hardware
-• Local LLM inference and AI automation systems
-• Production ML APIs built with FastAPI
+- Edge-cloud hybrid AI systems deployed on NVIDIA Jetson Orin Nano and production cloud
+- Multi-agent AI architectures with specialized agents debating and synthesizing answers
+- Production ML APIs with JWT auth, rate limiting, monitoring, and auto-healing Kubernetes deployments
+- Real-time voice AI pipelines — wake word detection, STT, LLM inference, ElevenLabs TTS under 2 seconds
+- AI-powered cybersecurity systems and anomaly detection for infrastructure monitoring
+- Local LLM inference and autonomous AI automation systems
 
 ---
 
 ## 🔬 Current Work
 
-• Developing AI-powered anomaly monitoring systems
-• Building edge AI robotics and computer vision systems on NVIDIA Jetson
-• Experimenting with local LLM applications and automation tools
+- Building AXIOM — a fully autonomous AI assistant running on edge hardware and cloud simultaneously
+- Developing production AI systems with Kubernetes orchestration and real-time monitoring
+- Exploring multi-agent AI architectures for complex reasoning and decision making
+
+---
+
+## 📜 Certifications
+
+Red Hat OpenShift & Kubernetes · AWS Cloud Foundations · Google Cybersecurity · Google Data Analytics · Cisco Network Automation
 
 ---
 
 ## 📫 Connect
 
-[LinkedIn
-](https://linkedin.com/in/robairfarag)
-
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robair26\&layout=compact\&theme=dark)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/robairfarag)
+[![AXIOM Live](https://img.shields.io/badge/AXIOM-Live_Demo-00d4ff?style=flat)](https://axiom.bitshadow.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Robair26-181717?style=flat&logo=github)](https://github.com/Robair26)
+ENDOFFILE
+cat /tmp/github_readme.md
