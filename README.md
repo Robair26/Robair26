@@ -1,4 +1,3 @@
-cat > /tmp/github_readme.md << 'ENDOFFILE'
 # Robair Farag — Applied AI & Systems Engineer
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
